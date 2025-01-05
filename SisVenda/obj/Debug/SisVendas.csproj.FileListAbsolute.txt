@@ -1,0 +1,176 @@
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\SisVenda.exe.config
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\SisVenda.exe
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\SisVenda.pdb
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Npgsql.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Buffers.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Collections.Immutable.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Memory.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Text.Json.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Threading.Channels.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.ValueTuple.dll
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\Npgsql.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Buffers.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Collections.Immutable.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Memory.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Text.Json.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Threading.Channels.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\bin\Debug\System.ValueTuple.xml
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\obj\Debug\SisVenda.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.Up2Date
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\obj\Debug\SisVenda.exe
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\obj\Debug\SisVenda.pdb
+C:\Users\USUARIO\Documents\Projeto Eduardo\SisVenda\SisVenda\obj\Debug\SisVenda.Principal.resources
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\SisVenda.exe.config
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\SisVenda.exe
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\SisVenda.pdb
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Npgsql.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Buffers.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Collections.Immutable.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Memory.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Text.Json.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Threading.Channels.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.ValueTuple.dll
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\Npgsql.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Buffers.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Collections.Immutable.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Memory.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Text.Json.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Threading.Channels.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\bin\Debug\System.ValueTuple.xml
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\obj\Debug\SisVenda.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\obj\Debug\SisVenda.Principal.resources
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.Up2Date
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\obj\Debug\SisVenda.exe
+C:\Users\USUARIO\Documents\Projetos Eduardo\SisVenda\SisVenda\obj\Debug\SisVenda.pdb
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVenda.Properties.Resources.resources
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVenda.Principal.resources
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVenda.View.viewCidade.resources
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.GenerateResource.cache
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVenda.exe
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVenda.pdb
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\SisVenda.exe.config
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\SisVenda.exe
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\SisVenda.pdb
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Npgsql.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Buffers.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Collections.Immutable.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Memory.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Numerics.Vectors.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Text.Encodings.Web.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Text.Json.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Threading.Channels.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.ValueTuple.dll
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\Npgsql.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Buffers.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Collections.Immutable.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Memory.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Numerics.Vectors.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Text.Encodings.Web.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Text.Json.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Threading.Channels.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SisVenda (2)\SisVenda\SisVenda\bin\Debug\System.ValueTuple.xml
+D:\SisVenda (2)\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.Up2Date
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVenda.Properties.Resources.resources
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVenda.Principal.resources
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVenda.View.viewCidade.resources
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.GenerateResource.cache
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVenda.exe
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVenda.pdb
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\SisVenda.exe.config
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\SisVenda.exe
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\SisVenda.pdb
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Npgsql.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Buffers.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Collections.Immutable.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Memory.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Numerics.Vectors.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Text.Encodings.Web.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Text.Json.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Threading.Channels.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.ValueTuple.dll
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\Npgsql.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Buffers.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Collections.Immutable.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Memory.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Numerics.Vectors.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Text.Encodings.Web.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Text.Json.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Threading.Channels.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SisVenda\SisVenda\SisVenda\bin\Debug\System.ValueTuple.xml
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVendas.csproj.Up2Date
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVenda.View.viewMarca.resources
+D:\SisVenda\SisVenda\SisVenda\obj\Debug\SisVenda.View.viewTipoProduto.resources

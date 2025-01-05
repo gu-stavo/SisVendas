@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9E55EB-4639-4A14-BF7C-EFA54F559C27}|SisVenda\\SisVendas.csproj|d:\\fatec jales geral\\sisvenda\\sisvenda\\sisvenda\\view\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E9E55EB-4639-4A14-BF7C-EFA54F559C27}|SisVenda\\SisVendas.csproj|solutionrelative:sisvenda\\view\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9E55EB-4639-4A14-BF7C-EFA54F559C27}|SisVenda\\SisVendas.csproj|D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\sisvenda\\view\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9E55EB-4639-4A14-BF7C-EFA54F559C27}|SisVenda\\SisVendas.csproj|solutionrelative:sisvenda\\view\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9E55EB-4639-4A14-BF7C-EFA54F559C27}|SisVenda\\SisVendas.csproj|D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\sisvenda\\controller\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9E55EB-4639-4A14-BF7C-EFA54F559C27}|SisVenda\\SisVendas.csproj|solutionrelative:sisvenda\\controller\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\SisVenda\\View\\Principal.cs",
+              "RelativeDocumentMoniker": "SisVenda\\View\\Principal.cs",
+              "ToolTip": "D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\SisVenda\\View\\Principal.cs",
+              "RelativeToolTip": "SisVenda\\View\\Principal.cs",
+              "ViewState": "AQIAAHoDAAAAAAAAAAAAwJYDAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:55:46.895Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs [Design]",
+              "DocumentMoniker": "D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\SisVenda\\View\\Principal.cs",
+              "RelativeDocumentMoniker": "SisVenda\\View\\Principal.cs",
+              "ToolTip": "D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\SisVenda\\View\\Principal.cs [Design]",
+              "RelativeToolTip": "SisVenda\\View\\Principal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:18:08.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\SisVenda\\Controller\\Connection.cs",
+              "RelativeDocumentMoniker": "SisVenda\\Controller\\Connection.cs",
+              "ToolTip": "D:\\Fatec Jales Geral\\SisVenda\\SisVenda\\SisVenda\\Controller\\Connection.cs",
+              "RelativeToolTip": "SisVenda\\Controller\\Connection.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:18:31.347Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
